@@ -1,0 +1,35 @@
+commit 009e9ec69d7680103e5fc50806df94ebd9f8097a
+Author: zhangliting <1196113942@qq.com>
+Date:   Fri Jun 21 15:58:05 2024 +0800
+
+    Remove large log files
+
+commit b22c76f248e3469b13f3c8bc14ee142ae930d0b9
+Author: zhangliting <1196113942@qq.com>
+Date:   Fri Jun 21 15:47:44 2024 +0800
+
+    delete large-model for git push
+
+commit 1ae77b4680302ebd1e0ae85d15a2fe159e86870f
+Author: zhangliting <1196113942@qq.com>
+Date:   Fri Jun 21 09:49:25 2024 +0800
+
+    fine tune on p239
+
+commit a152d7ddb583147f31c4b2e4d8689ddec3a57ba4
+Author: zhangliting <1196113942@qq.com>
+Date:   Wed Jun 19 09:58:27 2024 +0800
+
+    Tacotron2 reproduction train log
+
+commit faf62b9f5048ef34b5bb785cf4c6757c5e951e51
+Author: zhangliting <1196113942@qq.com>
+Date:   Tue Jun 18 00:08:09 2024 +0800
+
+    tacotron2 reproduction
+
+commit c4dfa368fc0d2a6cbc38308184668761e668fcfd
+Author: NKU_LiTi <118594748+NKU-LITI@users.noreply.github.com>
+Date:   Wed Jun 5 17:32:57 2024 +0800
+
+    Initial commit
